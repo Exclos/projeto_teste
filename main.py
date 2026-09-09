@@ -1,3 +1,4 @@
+#uma pequena alteração
 import customtkinter as ctk
 
 ctk.set_appearance_mode("light")
